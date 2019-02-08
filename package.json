@@ -1,0 +1,19 @@
+{
+  "name": "imports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "import.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arg": "^4.1.0",
+    "find-in-file": "^1.0.1",
+    "insert-line": "^1.1.0",
+    "node-cli-args": "^1.0.8",
+    "recursive-readdir": "^2.2.2",
+    "replace-in-file": "^3.4.3"
+  }
+}
